@@ -31,18 +31,14 @@ A clean and responsive **landing page** built using **HTML and CSS only**, focus
 ---
 
 ## 📂 Project Structure
-
 Leon Project/
-│
-├── index.html          # Main landing page
-│
+├── index.html
 ├── css/
-│   ├── leon.css        # Main stylesheet
-│   ├── normalize.css   # CSS normalization
-│   └── all.min.css     # Font Awesome styles
-│
-├── images/             # Images and UI assets
-└── webfonts/           # Font Awesome web fonts
+│   ├── leon.css
+│   ├── normalize.css
+│   └── all.min.css
+├── images/
+└── webfonts/
 
 ---
 
