@@ -31,6 +31,8 @@ A clean and responsive **landing page** built using **HTML and CSS only**, focus
 ---
 
 ## 📂 Project Structure
+
+```text
 Leon Project/
 ├── index.html
 ├── css/
@@ -39,6 +41,7 @@ Leon Project/
 │   └── all.min.css
 ├── images/
 └── webfonts/
+```
 
 ---
 
