@@ -51,5 +51,3 @@ This project demonstrates strong front-end fundamentals, including layout design
 ## 👤 Author
 
 **Hamza Waleed**
-
-ر
